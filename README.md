@@ -1,11 +1,11 @@
-# ☕ AURA - Cafe & Co-Working Space Management Platform
+# ☕ AURA  Cafe & Co-Working Space Management Platform
 > **Status:**  Work in Progress (In Active Development)
 
 **AURA** is a modern, full-featured web application designed to bridge the gap between premium specialty cafes and quiet co-working environments. Built with **Vue 3** and **Pinia**, this platform offers seamless workspace bookings, QR-based contactless ordering to eliminate wait times, and a comprehensive Admin Control Panel for daily operational tracking.
 
 ---
 
-## 📸 Interface Showcase & App Preview
+##  Interface Showcase & App Preview
 
 <details open>
   <summary><b> 1. Landing Page & Product Showcase</b></summary>
@@ -13,7 +13,7 @@
 
   | Modern Hero Section | Popular Drinks & Recommendations |
   | :---: | :---: |
-  | ![Hero Section](./Landing%20page.jpg) | ![Popular Drinks](./Landing%20page%20.png) |
+  | ![Hero Section](./Landing%20page.png) | ![Popular Drinks](./Landing%20page%20.png) |
 
 </details>
 
@@ -25,7 +25,7 @@
 
   | Co-Working Workspace Booking | Digital Coffee Menu |
   | :---: | :---: |
-  | ![Co-working Spaces](./Co%20working%20space.jpg) | ![Menu Items](./Special%20orders.jpg) |
+  | ![Co-working Spaces](./Co%20working%20space.png) | ![Menu Items](./Special%20orders.png) |
 
 </details>
 
@@ -37,7 +37,7 @@
 
   | In-House QR Code Scanner | Login & Portal Switcher |
   | :---: | :---: |
-  | ![QR Code Scan](./QR%20code%20scane.jpg) | ![Login Page](./Login%20%26%20register%20page.png) |
+  | ![QR Code Scan](./QR%20code%20scane.png) | ![Login Page](./Login%20%26%20register%20page.png) |
 
 </details>
 
